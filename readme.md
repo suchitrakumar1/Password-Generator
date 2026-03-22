@@ -75,5 +75,5 @@ random-password-generator/
 ---
 
 ## 📌 Author
+@suchitrakumar1
 
-Made by you 💻🔥
